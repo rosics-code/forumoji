@@ -1,7 +1,11 @@
 {
-    "name": "forumoji",
-    "sideEffects": "*.css"
-    ],
+    "name": "forumoji", 
+},
+{
+    "sideEffects": [
+    "*.css"
+    ]
+},
     "author": {
         "name": "lopste",
         "url": "https://vercte.net/"
