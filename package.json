@@ -1,9 +1,4 @@
 {
-  "scripts": {
-    "build": "[my-framework] build --output public"
-  }
-}
-{
     "name": "forumoji",
     "sideEffects": [
         "*.css"
@@ -44,5 +39,6 @@
         "build": "cross-env NODE_ENV=production && webpack --config webpack.prod.ts",
         "dev": "webpack-dev-server --hot --config webpack.dev.ts",
         "lint": "eslint ./src/ --fix"
+        "build": "other build --output public"
     }
 }
