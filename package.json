@@ -1,7 +1,7 @@
 {
     "sideEffects": [
     "*.css"
-    ]
+    ],
 },
     "author": {
         "name": "lopste",
