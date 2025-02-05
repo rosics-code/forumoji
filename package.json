@@ -1,7 +1,4 @@
 {
-    "name": "forumoji", 
-},
-{
     "sideEffects": [
     "*.css"
     ]
