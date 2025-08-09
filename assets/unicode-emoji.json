@@ -18,11 +18,6 @@
           "category": "face_smiling",
           "contents": [
             {
-              "codepoint": "U+1F600",
-              "name": "grinning face",
-              "keywords": ["face", "grin", "grinning face"]
-            },
-            {
               "codepoint": "U+1F603",
               "name": "grinning face with big eyes",
               "keywords": ["face", "grinning face with big eyes", "mouth", "open", "smile"]
@@ -852,11 +847,6 @@
         {
           "category": "emotion",
           "contents": [
-            {
-              "codepoint": "U+1F48B",
-              "name": "kiss mark",
-              "keywords": ["kiss", "kiss mark", "lips"]
-            },
             {
               "codepoint": "U+1F4AF",
               "name": "hundred points",
