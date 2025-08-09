@@ -39,5 +39,11 @@
         "build": "cross-env NODE_ENV=production && webpack --config webpack.prod.ts",
         "dev": "webpack-dev-server --hot --config webpack.dev.ts",
         "lint": "eslint ./src/ --fix"
-    }
+    },
+
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+}
 }
